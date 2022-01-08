@@ -2,11 +2,24 @@ body
 {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
+.container
+{
+    width: 100vw;
+    height: 100vh;
+
+    background-color:bisque;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .tile
 {
-    display: block;
+    width: 100px;
+    height: 100px;
     background-color: azure;
     text-align: center;
 }
