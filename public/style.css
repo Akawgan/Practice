@@ -1,0 +1,12 @@
+body
+{
+    display: flex;
+    justify-content: center;
+}
+
+.tile
+{
+    display: block;
+    background-color: azure;
+    text-align: center;
+}
