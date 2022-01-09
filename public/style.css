@@ -10,7 +10,7 @@ body
     width: 100vw;
     height: 100vh;
 
-    background-color:bisque;
+    background-color:rgb(185, 185, 185);
 
     display: flex;
     justify-content: center;
@@ -18,8 +18,14 @@ body
 }
 .tile
 {
-    width: 100px;
-    height: 100px;
-    background-color: azure;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(240, 240, 240);
     text-align: center;
+}
+.button-main
+{
+    padding: 10px;
+    width: 85%;
+    background-color: rgb(207, 219, 243);
 }
