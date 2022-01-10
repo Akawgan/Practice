@@ -3,6 +3,7 @@ body
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: black;
 }
 
 .container
@@ -10,11 +11,12 @@ body
     width: 100vw;
     height: 100vh;
 
-    background-color:rgb(185, 185, 185);
+    background-color:rgb(17, 17, 17);
 
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 .tile
 {
@@ -22,6 +24,7 @@ body
     height: 400px;
     background-color: rgb(240, 240, 240);
     text-align: center;
+    margin: 2vh;
 }
 .button-main
 {
