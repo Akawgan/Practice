@@ -4,6 +4,11 @@
     margin: 0%;
 }
 
+p
+{
+    margin-bottom: .5rem;
+}
+
 body
 {
     display: flex;
@@ -39,7 +44,7 @@ body
     border: #ffffff 1px solid;
     border-radius: 7px;
     padding: 1rem;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
 }
 .button-main
 {
