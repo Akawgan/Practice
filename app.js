@@ -1,5 +1,6 @@
 function test()
 {
-  let p = document.getElementById("Text");
-  p.innerHTML = "Changed!";
+  let picture = document.getElementById("target");
+  picture.className = "animate";
+  console.log("Launched");
 }
