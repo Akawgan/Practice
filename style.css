@@ -61,7 +61,7 @@ body
 }
 .animate
 {
-    animation: animacja .3s ease-in forwards;
+    animation: animacja .7s ease-in forwards;
 }
 
 @keyframes animacja {
